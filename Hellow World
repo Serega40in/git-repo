@@ -1,7 +1,8 @@
-print("Hellow World");
-print("Hellow everybody");
+print("Hello World;");
+print("Hello everybody;");
 print("делаем новую версию - ждите ;)")
-print("Hellow my dear friend")
-print("Glad to see you")
+print("Hellow my dear friend;")
+print("Glad to see you;")
+print("Hello;")
 
 Update class
